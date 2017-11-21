@@ -1,4 +1,5 @@
 # SlideMenuExample
 仿QQ策划
 
-效果图: ![](/Users/xrh/Desktop/SlideMenuExample/1.gif)
+## 显示效果
+<img scr = "https://github.com/GongChengKuangShi/SlideMenuExample-1/blob/master/GIF/1.gif" width=300 height=538 />
